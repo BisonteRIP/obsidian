@@ -1,0 +1,21 @@
+{
+  "pluginList": [
+    "Railly/obsidian-simple-flashcards"
+  ],
+  "pluginSubListFrozenVersion": [
+    {
+      "repo": "Railly/obsidian-simple-flashcards",
+      "version": "latest"
+    }
+  ],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": false,
+  "loggingPath": "BRAT-log",
+  "loggingVerboseEnabled": false,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": ""
+}

@@ -1,0 +1,79 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🟡",
+      "🗃",
+      "📗",
+      "SiNodedotjs",
+      "SiTypescript"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "001 PROGRAMACION": {
+    "iconName": "LiCodeXml",
+    "iconColor": "#e82626"
+  },
+  "001 PROGRAMACION/BACKEND": "SiDatabricks",
+  "001 PROGRAMACION/FRONTEND": "LiPenTool",
+  "001 PROGRAMACION/BACKEND/NODE": {
+    "iconName": "SiNodedotjs",
+    "iconColor": "#1e7b23"
+  },
+  "001 PROGRAMACION/BACKEND/SQL": {
+    "iconName": "LiDatabase",
+    "iconColor": "#1f69ff"
+  },
+  "001 PROGRAMACION/FRONTEND/JAVASCRIPT": {
+    "iconName": "SiJavascript",
+    "iconColor": "#bddb24"
+  },
+  "001 PROGRAMACION/FRONTEND/ASTRO": {
+    "iconName": "SiAstro",
+    "iconColor": "#eb511e"
+  },
+  "001 PROGRAMACION/FRONTEND/REACT": {
+    "iconName": "SiReact",
+    "iconColor": "#0a95ff"
+  },
+  "001 PROGRAMACION/FRONTEND/NEXT": {
+    "iconName": "SiNextdotjs",
+    "iconColor": "#dedede"
+  },
+  "001 PROGRAMACION/FRONTEND/TYPESCRIPT": {
+    "iconName": "SiTypescript",
+    "iconColor": "#173ed9"
+  },
+  "002 INGLES": "🗽",
+  "003 FLASHCARD": "🗃",
+  "001 PROGRAMACION/FRONTEND/JAVASCRIPT/01_Fndamentos": "🟡",
+  "001 PROGRAMACION/FRONTEND/JAVASCRIPT/02_Conceptos_Avanzados": "🟡",
+  "001 PROGRAMACION/FRONTEND/JAVASCRIPT/03_Entorno_de_Ejecucuion": "🟡",
+  "001 PROGRAMACION/FRONTEND/JAVASCRIPT/04_Buenas_Practicas_y_Ptrones": "🟡",
+  "001 PROGRAMACION/FRONTEND/JAVASCRIPT/05_Ecosistema_Moderno": "🟡",
+  "001 PROGRAMACION/FRONTEND/JAVASCRIPT/06_Conceptos": "🟡"
+}
