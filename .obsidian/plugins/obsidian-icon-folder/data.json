@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiNginxproxymanager",
       "🟡",
       "🗃",
       "📗",
-      "SiNodedotjs",
-      "SiTypescript"
+      "SiNodedotjs"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -75,5 +75,9 @@
   "001 PROGRAMACION/FRONTEND/JAVASCRIPT/03_Entorno_de_Ejecucuion": "🟡",
   "001 PROGRAMACION/FRONTEND/JAVASCRIPT/04_Buenas_Practicas_y_Ptrones": "🟡",
   "001 PROGRAMACION/FRONTEND/JAVASCRIPT/05_Ecosistema_Moderno": "🟡",
-  "001 PROGRAMACION/FRONTEND/JAVASCRIPT/06_Conceptos": "🟡"
+  "001 PROGRAMACION/FRONTEND/JAVASCRIPT/06_Conceptos": "🟡",
+  "003 PROYECTOS PERSONALES": {
+    "iconName": "SiNginxproxymanager",
+    "iconColor": "#810404"
+  }
 }

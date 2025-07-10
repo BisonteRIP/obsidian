@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"398b7cd6f2a381db","type":"group","x":-1480,"y":-760,"width":2644,"height":897,"label":"UI/UX Referencia"},
+		{"id":"16cf61c5b0fb6260","type":"text","text":"#### Color Secundario\n- **Gris Claro (Fondo Principal):**\n    \n    - **Hex:** `#F8F8F8` (Un gris casi blanco. Perfecto para el fondo general de la aplicación, dando una sensación de limpieza y amplitud.)\n        \n    - **Usos:** Fondos de pantallas, paneles, áreas de contenido.\n        \n- **Gris Medio (Texto y Bordes):**\n    \n    - **Hex:** `#6C757D` (Un gris cálido y neutro. Ideal para el texto general del cuerpo, etiquetas, y bordes de campos de entrada.)\n        \n    - **Usos:** Texto de párrafos, etiquetas de formularios, bordes de tablas y campos de entrada.\n        \n- **Blanco (Elementos Destacados):**\n    \n    - **Hex:** `#FFFFFF` (Para tarjetas de información, modales, o elementos que necesitan contraste absoluto.)\n        \n    - **Usos:** Fondos de tarjetas de datos, ventanas modales, pop-ups, campos de entrada.","x":-340,"y":600,"width":400,"height":215},
+		{"id":"155a6f8f3af922a2","type":"text","text":"#### Color Principal\n\n**Morado Principal (El Protagonista):**\n\n- **Hex:** `#6A0DAD` (Un morado profundo y vibrante. Ideal para encabezados de sección, botones principales de acción como \"Guardar\" o \"Generar Factura\", o el logo.)\n    \n- **Usos:** Encabezados de paneles, botones de acción primarios, branding del sistema (logo, top bar).","x":-780,"y":600,"width":392,"height":215},
+		{"id":"dd683da0af06eadc","type":"file","file":"003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/Paleta de Colores.png","x":-510,"y":360,"width":740,"height":70,"color":"6"},
+		{"id":"c00d0b03f520a6ca","type":"file","file":"003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Dashboard.png","x":-1460,"y":-419,"width":399,"height":242},
+		{"id":"b8befed75ee1de15","type":"file","file":"003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Clientes.png","x":-1016,"y":-419,"width":399,"height":243},
+		{"id":"683dca359b9b10d1","type":"file","file":"003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Clientes_input.png","x":-1016,"y":-139,"width":399,"height":254},
+		{"id":"d53eb80f63e32660","type":"file","file":"003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Inventario.png","x":-576,"y":-419,"width":399,"height":243},
+		{"id":"4161a290174c751b","type":"file","file":"003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Inventario_input.png","x":-580,"y":-131,"width":408,"height":248},
+		{"id":"f2d2935811a45829","type":"file","file":"003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Reportes.png","x":744,"y":-418,"width":400,"height":243},
+		{"id":"5318877d19a9655f","type":"text","text":"### Colores de Énfasis y Estado (Para Información Específica)\n\nEstos colores son cruciales para comunicar el estado de una acción o la importancia de un dato.\n\n- **Verde Éxito:**\n    \n    - **Hex:** `#28A745` (Un verde brillante pero no estridente. Utilízalo para confirmaciones de acciones exitosas, como \"Producto añadido correctamente\" o \"Factura pagada\".)\n        \n    - **Usos:** Mensajes de éxito, íconos de \"completado\", barras de progreso positivas.\n        \n- **Rojo Error/Advertencia:**\n    \n    - **Hex:** `#DC3545` (Un rojo estándar para errores o acciones que requieren atención, como \"Campo obligatorio\" o \"Stock bajo\".)\n        \n    - **Usos:** Mensajes de error, validaciones de formularios, advertencias críticas.\n        \n- **Azul Informativo:**\n    \n    - **Hex:** `#007BFF` (Un azul profesional. Ideal para información adicional, enlaces, o íconos de ayuda.)\n        \n    - **Usos:** Mensajes informativos, enlaces navegables, íconos de información o ayuda.","x":100,"y":600,"width":420,"height":215},
+		{"id":"226b71287d95ea05","type":"text","text":"## UI/UX","x":-236,"y":-740,"width":137,"height":80},
+		{"id":"c14d279ede711ed9","type":"file","file":"003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Facturas.png","x":-136,"y":-420,"width":399,"height":243},
+		{"id":"8db77dfc2f691cf4","type":"file","file":"003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Facturas_input.png","x":-136,"y":-131,"width":400,"height":246},
+		{"id":"4268e9404b36e7d4","type":"file","file":"003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Garantias.png","x":304,"y":-418,"width":400,"height":242},
+		{"id":"c2f16240a00239b0","type":"file","file":"003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Garantia_input.png","x":304,"y":-131,"width":399,"height":240}
+	],
+	"edges":[
+		{"id":"9132678a018401a6","fromNode":"dd683da0af06eadc","fromSide":"bottom","toNode":"155a6f8f3af922a2","toSide":"top"},
+		{"id":"ac7bbe18426250b7","fromNode":"dd683da0af06eadc","fromSide":"bottom","toNode":"16cf61c5b0fb6260","toSide":"top"},
+		{"id":"6c388d4719b257eb","fromNode":"dd683da0af06eadc","fromSide":"bottom","toNode":"5318877d19a9655f","toSide":"top"},
+		{"id":"0c8739800011adb1","fromNode":"226b71287d95ea05","fromSide":"bottom","toNode":"d53eb80f63e32660","toSide":"top"},
+		{"id":"de29ba00d53125ff","fromNode":"226b71287d95ea05","fromSide":"bottom","toNode":"c14d279ede711ed9","toSide":"top"},
+		{"id":"4282c984845ec899","fromNode":"226b71287d95ea05","fromSide":"bottom","toNode":"4268e9404b36e7d4","toSide":"top"},
+		{"id":"b03b5f5a29c6259d","fromNode":"226b71287d95ea05","fromSide":"bottom","toNode":"f2d2935811a45829","toSide":"top"},
+		{"id":"00421de73dc38a97","fromNode":"226b71287d95ea05","fromSide":"bottom","toNode":"b8befed75ee1de15","toSide":"top"},
+		{"id":"70d4318701a98096","fromNode":"226b71287d95ea05","fromSide":"bottom","toNode":"c00d0b03f520a6ca","toSide":"top"},
+		{"id":"a969441c97886f5b","fromNode":"b8befed75ee1de15","fromSide":"bottom","toNode":"683dca359b9b10d1","toSide":"top"},
+		{"id":"95377e993887e2ae","fromNode":"d53eb80f63e32660","fromSide":"bottom","toNode":"4161a290174c751b","toSide":"top"},
+		{"id":"326375094d400126","fromNode":"c14d279ede711ed9","fromSide":"bottom","toNode":"8db77dfc2f691cf4","toSide":"top"},
+		{"id":"53f6ccdc432c23d3","fromNode":"4268e9404b36e7d4","fromSide":"bottom","toNode":"c2f16240a00239b0","toSide":"top"}
+	]
+}
