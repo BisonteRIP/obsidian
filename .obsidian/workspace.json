@@ -11,14 +11,17 @@
             "id": "8eb3e505ef553077",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "001 PROGRAMACION/FRONTEND/JAVASCRIPT/02_Conceptos_Avanzados/Programación_Asíncrona.md",
-                "mode": "preview",
-                "source": false
+                "file": "003 PROYECTOS PERSONALES/Branding Elibeth/Identidad Corporativa.canvas",
+                "viewState": {
+                  "x": 320.02883708175983,
+                  "y": 36.10142431241616,
+                  "zoom": -0.6666666666666667
+                }
               },
-              "icon": "lucide-file",
-              "title": "Programación_Asíncrona"
+              "icon": "lucide-layout-dashboard",
+              "title": "Identidad Corporativa"
             }
           }
         ]
@@ -197,6 +200,15 @@
   },
   "active": "8eb3e505ef553077",
   "lastOpenFiles": [
+    "papeleria_odontologia_ref_2.jpg",
+    "papeleria_odontologia_ref.jpg",
+    "sobre_ref.jpg",
+    "tarjeta_2.jpg",
+    "tarjeta.jpg",
+    "003 PROYECTOS PERSONALES/Sin título.md",
+    "003 PROYECTOS PERSONALES/Branding Elibeth/Identidad Corporativa.canvas",
+    "003 PROYECTOS PERSONALES/Branding Elibeth",
+    "001 PROGRAMACION/FRONTEND/JAVASCRIPT/02_Conceptos_Avanzados/Programación_Asíncrona.md",
     "001 PROGRAMACION/FRONTEND/JAVASCRIPT/02_Conceptos_Avanzados/Arrays.md",
     "003 PROYECTOS PERSONALES/Inventario y Facturacion/RoadMap Inventario.canvas",
     "003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Reportes.png",
@@ -206,10 +218,6 @@
     "003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Garantia_input.png",
     "003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Garantias.png",
     "003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Facturas_input.png",
-    "003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Clientes_input.png",
-    "003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Facturas.png",
-    "003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Clientes.png",
-    "003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Dashboard.png",
     "003 PROYECTOS PERSONALES/Inventario y Facturacion/Investigacion",
     "003 PROYECTOS PERSONALES/Inventario y Facturacion/Media",
     "003 PROYECTOS PERSONALES/Inventario y Facturacion",
@@ -218,7 +226,6 @@
     "001 PROGRAMACION/FRONTEND/JAVASCRIPT/02_Conceptos_Avanzados/Spread Operator.md",
     "001 PROGRAMACION/FRONTEND/JAVASCRIPT/02_Conceptos_Avanzados/Rest Parameters.md",
     "001 PROGRAMACION/FRONTEND/JAVASCRIPT/02_Conceptos_Avanzados/Prototipos y Herencia Prototipica.md",
-    "001 PROGRAMACION/FRONTEND/JAVASCRIPT/02_Conceptos_Avanzados/Programación_Asíncrona.md",
     "001 PROGRAMACION/FRONTEND/JAVASCRIPT/02_Conceptos_Avanzados/Módulos (ES Modules).md",
     "001 PROGRAMACION/FRONTEND/JAVASCRIPT/02_Conceptos_Avanzados/Manejo de Errores.md",
     "001 PROGRAMACION/FRONTEND/JAVASCRIPT/02_Conceptos_Avanzados/Inmutabilidad.md",
@@ -241,8 +248,6 @@
     "001 PROGRAMACION/FRONTEND/JAVASCRIPT/06_Conceptos",
     "001 PROGRAMACION/FRONTEND/JAVASCRIPT/01_Fndamentos/Fundamentos.md",
     "001 PROGRAMACION/FRONTEND/JAVASCRIPT/05_Ecosistema_Moderno",
-    "001 PROGRAMACION/FRONTEND/JAVASCRIPT/04_Buenas_Practicas_y_Ptrones",
-    "001 PROGRAMACION/FRONTEND/JAVASCRIPT/Javascript.md",
     "Sin título.canvas"
   ]
 }
