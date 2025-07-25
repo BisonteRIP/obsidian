@@ -1,15 +1,18 @@
 {
 	"nodes":[
-		{"id":"72bfc5980465fd86","x":-560,"y":-320,"width":320,"height":400,"type":"file","file":"tarjeta.jpg"},
-		{"id":"7345acb601a2d5ff","x":-561,"y":100,"width":321,"height":400,"type":"file","file":"tarjeta_2.jpg"},
-		{"id":"d007bc3c024d3880","x":-200,"y":-320,"width":225,"height":400,"type":"file","file":"sobre_ref.jpg"},
-		{"id":"4910cd384f38db2b","x":60,"y":-320,"width":400,"height":400,"type":"file","file":"papeleria_odontologia_ref.jpg"},
-		{"id":"e213c72666c43190","x":60,"y":100,"width":400,"height":400,"type":"file","file":"papeleria_odontologia_ref_2.jpg"},
-		{"id":"8987b700a565b234","x":-180,"y":-540,"width":186,"height":60,"type":"text","text":"##### REFERENCIAS"}
+		{"id":"72bfc5980465fd86","type":"file","file":"tarjeta.jpg","x":-560,"y":-320,"width":320,"height":400},
+		{"id":"7345acb601a2d5ff","type":"file","file":"tarjeta_2.jpg","x":-561,"y":100,"width":321,"height":400},
+		{"id":"d007bc3c024d3880","type":"file","file":"sobre_ref.jpg","x":-200,"y":-320,"width":225,"height":400},
+		{"id":"4910cd384f38db2b","type":"file","file":"papeleria_odontologia_ref.jpg","x":60,"y":-320,"width":400,"height":400},
+		{"id":"e213c72666c43190","type":"file","file":"papeleria_odontologia_ref_2.jpg","x":60,"y":100,"width":400,"height":400},
+		{"id":"8987b700a565b234","type":"text","text":"##### REFERENCIAS","x":-180,"y":-540,"width":186,"height":60},
+		{"id":"3f8f93c0dbbec63b","x":500,"y":-320,"width":400,"height":400,"type":"file","file":"Logo_ref_buena.jpg"},
+		{"id":"4175a4969dec8d49","x":500,"y":100,"width":320,"height":400,"type":"file","file":"logo_reg.jpg"}
 	],
 	"edges":[
 		{"id":"c29f8383cac46d93","fromNode":"8987b700a565b234","fromSide":"bottom","toNode":"d007bc3c024d3880","toSide":"top"},
 		{"id":"5b63539b91880165","fromNode":"8987b700a565b234","fromSide":"bottom","toNode":"4910cd384f38db2b","toSide":"top"},
-		{"id":"1dcca3aade026da1","fromNode":"8987b700a565b234","fromSide":"bottom","toNode":"72bfc5980465fd86","toSide":"top"}
+		{"id":"1dcca3aade026da1","fromNode":"8987b700a565b234","fromSide":"bottom","toNode":"72bfc5980465fd86","toSide":"top"},
+		{"id":"9d16e3981b3ac14a","fromNode":"8987b700a565b234","fromSide":"bottom","toNode":"3f8f93c0dbbec63b","toSide":"top"}
 	]
 }
