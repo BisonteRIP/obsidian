@@ -9,7 +9,6 @@ a :: un/una
 in :: en 
 that :: que/eso/esa 
 have :: tener/haber 
-I :: yo 
 it :: eso/ello 
 for :: para/por 
 not :: no 
