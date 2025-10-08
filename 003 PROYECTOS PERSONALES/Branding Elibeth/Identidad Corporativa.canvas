@@ -1,13 +1,13 @@
 {
 	"nodes":[
-		{"id":"72bfc5980465fd86","type":"file","file":"tarjeta.jpg","x":-560,"y":-320,"width":320,"height":400},
-		{"id":"7345acb601a2d5ff","type":"file","file":"tarjeta_2.jpg","x":-561,"y":100,"width":321,"height":400},
-		{"id":"d007bc3c024d3880","type":"file","file":"sobre_ref.jpg","x":-200,"y":-320,"width":225,"height":400},
-		{"id":"4910cd384f38db2b","type":"file","file":"papeleria_odontologia_ref.jpg","x":60,"y":-320,"width":400,"height":400},
-		{"id":"e213c72666c43190","type":"file","file":"papeleria_odontologia_ref_2.jpg","x":60,"y":100,"width":400,"height":400},
+		{"id":"72bfc5980465fd86","type":"file","file":"003 PROYECTOS PERSONALES/Branding Elibeth/tarjeta.jpg","x":-560,"y":-320,"width":320,"height":400},
+		{"id":"7345acb601a2d5ff","type":"file","file":"003 PROYECTOS PERSONALES/Branding Elibeth/tarjeta_2.jpg","x":-561,"y":100,"width":321,"height":400},
+		{"id":"d007bc3c024d3880","type":"file","file":"003 PROYECTOS PERSONALES/Branding Elibeth/sobre_ref.jpg","x":-200,"y":-320,"width":225,"height":400},
+		{"id":"4910cd384f38db2b","type":"file","file":"003 PROYECTOS PERSONALES/Branding Elibeth/papeleria_odontologia_ref.jpg","x":60,"y":-320,"width":400,"height":400},
+		{"id":"e213c72666c43190","type":"file","file":"003 PROYECTOS PERSONALES/Branding Elibeth/papeleria_odontologia_ref_2.jpg","x":60,"y":100,"width":400,"height":400},
 		{"id":"8987b700a565b234","type":"text","text":"##### REFERENCIAS","x":-180,"y":-540,"width":186,"height":60},
-		{"id":"3f8f93c0dbbec63b","x":500,"y":-320,"width":400,"height":400,"type":"file","file":"Logo_ref_buena.jpg"},
-		{"id":"4175a4969dec8d49","x":500,"y":100,"width":320,"height":400,"type":"file","file":"logo_reg.jpg"}
+		{"id":"3f8f93c0dbbec63b","type":"file","file":"003 PROYECTOS PERSONALES/Branding Elibeth/Logo_ref_buena.jpg","x":500,"y":-320,"width":400,"height":400},
+		{"id":"4175a4969dec8d49","type":"file","file":"003 PROYECTOS PERSONALES/Branding Elibeth/logo_reg.jpg","x":500,"y":100,"width":320,"height":400}
 	],
 	"edges":[
 		{"id":"c29f8383cac46d93","fromNode":"8987b700a565b234","fromSide":"bottom","toNode":"d007bc3c024d3880","toSide":"top"},
