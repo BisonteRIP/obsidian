@@ -39,14 +39,17 @@
             "id": "eb4be33adf003c64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "003 FLASHCARD/Vocabulario Ingles 1.md",
-                "mode": "source",
-                "source": false
+                "file": "003 PROYECTOS PERSONALES/Desing System/Sin título.canvas",
+                "viewState": {
+                  "x": 1645.523434172919,
+                  "y": -36.285135561215014,
+                  "zoom": -1
+                }
               },
-              "icon": "lucide-file",
-              "title": "Vocabulario Ingles 1"
+              "icon": "lucide-layout-dashboard",
+              "title": "Sin título"
             }
           }
         ],
@@ -227,8 +230,16 @@
   },
   "active": "eb4be33adf003c64",
   "lastOpenFiles": [
-    "003 FLASHCARD/Latter_1.md",
+    "UI Kit _ Design system __ Behance.jpg",
+    "8fdae07150ec8e72869589f91e7f595f.jpg",
+    "8ee15859c30b39badae3daa811a72e93.jpg",
+    "cd20cc834979da392d6dce994ebce47d.jpg",
+    "Hello Coach - Lorenzo 🤘 Bocchi.jpg",
+    "Sleek Material Design Buttons to Modernize Your UI.jpg",
     "003 FLASHCARD/Vocabulario Ingles 1.md",
+    "003 PROYECTOS PERSONALES/Desing System/Sin título.canvas",
+    "003 PROYECTOS PERSONALES/Desing System",
+    "003 FLASHCARD/Latter_1.md",
     "001 PROGRAMACION/FRONTEND/REACT/HOOKS.md",
     "001 PROGRAMACION/FRONTEND/JAVASCRIPT/02_Conceptos_Avanzados/Closures (Clausuras).md",
     "001 PROGRAMACION/FRONTEND/JAVASCRIPT/01_Fndamentos/Variables_y_Tipos_de_Datos.md",
@@ -242,17 +253,12 @@
     "003 PROYECTOS PERSONALES/Branding Elibeth/README.md",
     "003 PROYECTOS PERSONALES/Branding Elibeth/papeleria_odontologia_ref_2.jpg",
     "003 PROYECTOS PERSONALES/Branding Elibeth/papeleria_odontologia_ref.jpg",
-    "003 PROYECTOS PERSONALES/Branding Elibeth/Logo_ref_buena.jpg",
     "003 PROYECTOS PERSONALES/Branding Elibeth/Identidad Corporativa.canvas",
-    "003 PROYECTOS PERSONALES/Branding Elibeth/logo_reg.jpg",
     "003 PROYECTOS PERSONALES/Sin título.md",
     "003 PROYECTOS PERSONALES/Branding Elibeth",
     "001 PROGRAMACION/FRONTEND/JAVASCRIPT/02_Conceptos_Avanzados/Programación_Asíncrona.md",
     "001 PROGRAMACION/FRONTEND/JAVASCRIPT/02_Conceptos_Avanzados/Arrays.md",
     "003 PROYECTOS PERSONALES/Inventario y Facturacion/RoadMap Inventario.canvas",
-    "003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Reportes.png",
-    "003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Inventario.png",
-    "003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI/Inventario_input.png",
     "003 PROYECTOS PERSONALES/Inventario y Facturacion/Media/UI",
     "003 PROYECTOS PERSONALES/Inventario y Facturacion/Investigacion",
     "003 PROYECTOS PERSONALES/Inventario y Facturacion/Media",
@@ -272,9 +278,7 @@
     "001 PROGRAMACION/FRONTEND/JAVASCRIPT/JavaScript.md",
     "obsidian/README.md",
     "obsidian",
-    "variables.md",
     "001 PROGRAMACION/FRONTEND/JAVASCRIPT/06_Conceptos",
-    "001 PROGRAMACION/FRONTEND/JAVASCRIPT/05_Ecosistema_Moderno",
     "Sin título.canvas"
   ]
 }
