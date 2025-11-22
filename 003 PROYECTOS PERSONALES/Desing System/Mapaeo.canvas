@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"ae53c2f938bf1063","x":-270,"y":-660,"width":230,"height":65,"type":"text","text":"# Inspiracion"},
+		{"id":"499cbcca95ea3383","type":"file","file":"003 PROYECTOS PERSONALES/Desing System/Button_size_example.jpg","x":-654,"y":-460,"width":320,"height":400},
+		{"id":"745c3cce8e4d93db","type":"file","file":"003 PROYECTOS PERSONALES/Desing System/Left_Sidebar.jpg","x":-314,"y":-460,"width":320,"height":400},
+		{"id":"2c2630a79f868cf7","type":"file","file":"003 PROYECTOS PERSONALES/Desing System/Login_form_size.jpg","x":27,"y":-460,"width":320,"height":400},
+		{"id":"c0247978df61a66f","type":"file","file":"003 PROYECTOS PERSONALES/Desing System/Button_desing_system.jpg","x":-260,"y":80,"width":214,"height":400},
+		{"id":"40b6a4d6ab521812","type":"file","file":"003 PROYECTOS PERSONALES/Desing System/Button_desing_system_2.jpg","x":-30,"y":80,"width":222,"height":400},
+		{"id":"9ed386d172d12454","type":"file","file":"003 PROYECTOS PERSONALES/Desing System/Components_desing_system.jpg","x":-494,"y":80,"width":224,"height":400}
+	],
+	"edges":[
+		{"id":"a3f88a8feab5d57a","fromNode":"ae53c2f938bf1063","fromSide":"bottom","toNode":"499cbcca95ea3383","toSide":"top"},
+		{"id":"b06058f7134f643c","fromNode":"ae53c2f938bf1063","fromSide":"bottom","toNode":"745c3cce8e4d93db","toSide":"top"},
+		{"id":"3147284b9d2f2ce0","fromNode":"ae53c2f938bf1063","fromSide":"bottom","toNode":"2c2630a79f868cf7","toSide":"top"},
+		{"id":"8297813378aed296","fromNode":"499cbcca95ea3383","fromSide":"bottom","toNode":"9ed386d172d12454","toSide":"top"},
+		{"id":"d37c3efcaac10dad","fromNode":"745c3cce8e4d93db","fromSide":"bottom","toNode":"c0247978df61a66f","toSide":"top"},
+		{"id":"71232ff99572b5ca","fromNode":"2c2630a79f868cf7","fromSide":"bottom","toNode":"40b6a4d6ab521812","toSide":"top"}
+	]
+}
