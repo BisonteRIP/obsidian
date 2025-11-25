@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"ae53c2f938bf1063","x":-270,"y":-660,"width":230,"height":65,"type":"text","text":"# Inspiracion"},
+		{"id":"ae53c2f938bf1063","type":"text","text":"# Inspiracion","x":-270,"y":-660,"width":230,"height":65},
 		{"id":"499cbcca95ea3383","type":"file","file":"003 PROYECTOS PERSONALES/Desing System/Button_size_example.jpg","x":-654,"y":-460,"width":320,"height":400},
 		{"id":"745c3cce8e4d93db","type":"file","file":"003 PROYECTOS PERSONALES/Desing System/Left_Sidebar.jpg","x":-314,"y":-460,"width":320,"height":400},
 		{"id":"2c2630a79f868cf7","type":"file","file":"003 PROYECTOS PERSONALES/Desing System/Login_form_size.jpg","x":27,"y":-460,"width":320,"height":400},
