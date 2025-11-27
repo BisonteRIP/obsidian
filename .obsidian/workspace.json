@@ -28,17 +28,12 @@
             "id": "061f70b2e56acb57",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "003 PROYECTOS PERSONALES/Desing System/Mapaeo.canvas",
-                "viewState": {
-                  "x": 536.0341513139816,
-                  "y": -119.93775726993485,
-                  "zoom": -0.9496979331936235
-                }
+                "file": "003 PROYECTOS PERSONALES/Desing System/Botones_terminados.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mapaeo"
+              "icon": "lucide-image",
+              "title": "Botones_terminados"
             }
           }
         ],
@@ -217,19 +212,20 @@
       "obsidian-spaced-repetition:Revisar Tarjetas": false
     }
   },
-  "active": "061f70b2e56acb57",
+  "active": "2cb509c60fbb84e9",
   "lastOpenFiles": [
+    "003 PROYECTOS PERSONALES/Desing System/Mapaeo.canvas",
+    "003 PROYECTOS PERSONALES/Desing System/Botones_terminados.png",
     "003 PROYECTOS PERSONALES/Desing System/Button_size_example.jpg",
+    "003 PROYECTOS PERSONALES/Desing System/Button_desing_system.jpg",
+    "003 PROYECTOS PERSONALES/Desing System/Button_desing_system_2.jpg",
     "003 PROYECTOS PERSONALES/Proyectos Portfolio",
     "003 PROYECTOS PERSONALES/Desing System/Components_desing_system.jpg",
-    "003 PROYECTOS PERSONALES/Desing System/Mapaeo.canvas",
     "001 PROGRAMACION/FRONTEND/REACT/HOOKS.md",
     "003 PROYECTOS PERSONALES/Desing System/Sin título.canvas",
     "003 PROYECTOS PERSONALES/Desing System/Left_Sidebar.jpg",
-    "003 PROYECTOS PERSONALES/Desing System/Button_desing_system.jpg",
     "003 PROYECTOS PERSONALES/Desing System",
     "003 PROYECTOS PERSONALES/Desing System/Login_form_size.jpg",
-    "003 PROYECTOS PERSONALES/Desing System/Button_desing_system_2.jpg",
     "003 PROYECTOS PERSONALES/Inventario y Facturacion/RoadMap Inventario.canvas",
     "003 FLASHCARD/Vocabulario Ingles 1.md",
     "003 PROYECTOS PERSONALES/Desing System",
@@ -244,7 +240,6 @@
     "003 PROYECTOS PERSONALES/Branding Elibeth/tarjeta.jpg",
     "003 PROYECTOS PERSONALES/Branding Elibeth/sobre_ref.jpg",
     "003 PROYECTOS PERSONALES/Branding Elibeth/README.md",
-    "003 PROYECTOS PERSONALES/Branding Elibeth/papeleria_odontologia_ref_2.jpg",
     "003 PROYECTOS PERSONALES/Branding Elibeth/Identidad Corporativa.canvas",
     "003 PROYECTOS PERSONALES/Sin título.md",
     "003 PROYECTOS PERSONALES/Branding Elibeth",

@@ -6,7 +6,8 @@
 		{"id":"2c2630a79f868cf7","type":"file","file":"003 PROYECTOS PERSONALES/Desing System/Login_form_size.jpg","x":27,"y":-460,"width":320,"height":400},
 		{"id":"c0247978df61a66f","type":"file","file":"003 PROYECTOS PERSONALES/Desing System/Button_desing_system.jpg","x":-260,"y":80,"width":214,"height":400},
 		{"id":"40b6a4d6ab521812","type":"file","file":"003 PROYECTOS PERSONALES/Desing System/Button_desing_system_2.jpg","x":-30,"y":80,"width":222,"height":400},
-		{"id":"9ed386d172d12454","type":"file","file":"003 PROYECTOS PERSONALES/Desing System/Components_desing_system.jpg","x":-494,"y":80,"width":224,"height":400}
+		{"id":"9ed386d172d12454","type":"file","file":"003 PROYECTOS PERSONALES/Desing System/Components_desing_system.jpg","x":-494,"y":80,"width":224,"height":400},
+		{"id":"9908ecc61b16a6ee","x":-1640,"y":-460,"width":400,"height":384,"type":"file","file":"003 PROYECTOS PERSONALES/Desing System/Botones_terminados.png"}
 	],
 	"edges":[
 		{"id":"a3f88a8feab5d57a","fromNode":"ae53c2f938bf1063","fromSide":"bottom","toNode":"499cbcca95ea3383","toSide":"top"},
